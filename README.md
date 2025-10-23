@@ -37,36 +37,9 @@
 
 ---
 
-## 📂 Featured Projects  
-
-### 🚖 Taxi Booking Platform  
-[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areebatanveer19/taxi-booking-website)  
-A **React + Express.js** based taxi booking platform with **Google Maps integration**, **distance-based pricing**, and **admin driver management**.  
-
----
-
-### 🌐 Skincare E-Commerce Website  
-[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areebatanveer19/skincare-website)  
-A **React + Express + MongoDB + OpenAI API** e-commerce platform with **JWT authentication**, **real-time cart API**, and **secure checkout**.  
-
----
-
-### 📰 AI-Powered Blog Summariser  
-[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areebatanveer19/AI-blog-summarizer)  
-A **Next.js + LangChain + OpenAI** project that scrapes blog content, generates **AI summaries**, translates them to Urdu, and stores data in **Supabase + MongoDB**.  
-
----
-
-### 🧪 Diabetes Prediction Model  
-[![GitHub Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areebatanveer19/Diabetes-Prediction)  
-A machine learning project using **Logistic Regression, SVM, KNN, and Random Forest** to predict diabetes with high accuracy.  
-
----
-
 ## 📊 GitHub Stats  
 
-![Areeba's GitHub stats](https://github-readme-stats.vercel.app/api?username=areebatanveer19&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areebatanveer19&layout=compact&theme=tokyonight)  
-
+![Areeba's GitHub stats](https://github-readme-stats.vercel.app/api?username=areebatanveer19&show_icons=true&theme=tokyonight)  
 ---
 
 ## 📫 Contact Me  
